@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d5827059f20403b04b6e5b50ce53a55bd734eb673f766bfcbf87b42425bc0a76"
+build_start_time: [1673864449, 744384050]
+build_end_time: [1673864450, 86134910]
+inputs:
+  "/Users/bruna/Development/flutter_projects/meals_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1673864330, 279994964]
+  "/Users/bruna/Development/flutter_projects/meals_app/macos/Runner/AppDelegate.swift": !private [1661879069, 0]
+  "/Users/bruna/Development/flutter_projects/meals_app/macos/Runner/MainFlutterWindow.swift": !private [1661879069, 0]
